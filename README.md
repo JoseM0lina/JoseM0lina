@@ -6,8 +6,8 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: Jose Marin
-* Ocupación: Estudiante de Ing en Ciencias computacionales
+* Nombre: [Tu nombre]
+* Ocupación: [Tu ocupación]
 * Lugar de residencia: [Tu lugar de residencia]
 * Sitio web: [Tu sitio web]
 ## Proyectos

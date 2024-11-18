@@ -18,25 +18,13 @@
 - **Mi CV:** [CV - José Marin](https://josem0lina.github.io/curriculum/)
 
 ## ✨ Intereses
-- **Desarrollo de Software:** Me interesa por su capacidad de crear soluciones prácticas que impactan la vida diaria y resuelven problemas reales.
-<div align="center">
-    <img src="multimedia/desarrollosoftware.gif" alt="Gif" width="300"/>
-</div>
+| **Interés**                                                                                                                                                      | **Gif**                                                                                                  |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| **Desarrollo de Software**<br>Me interesa por su capacidad de crear soluciones prácticas que impactan la vida diaria y resuelven problemas reales.                   | ![Desarrollo de Software](multimedia/desarrollosoftware.gif)                                               |
+| **Ciberseguridad**<br>Considero que es crucial para proteger datos y sistemas en un mundo digital, además de ser un desafío constante que requiere ingenio.        | ![Ciberseguridad](multimedia/ciberseguridad.gif)                                                         |
+| **Ciencia de Datos**<br>Me interesa porque permite convertir datos en decisiones útiles, aportando valor en sectores clave como salud, finanzas y tecnología.       | ![Ciencia de Datos](multimedia/datascience.gif)                                                          |
+| **Inteligencia Artificial**<br>Es increíble la capacidad de simular inteligencia humana y transformar industrias con soluciones innovadoras.                       | ![Inteligencia Artificial](multimedia/ia.gif)                                                            |
 
-- **Ciberseguridad:** Considero que es crucial para proteger datos y sistemas en un mundo digital, además de ser un desafío constante que requiere ingenio.
-<div align="center">
-    <img src="multimedia/ciberseguridad.gif" alt="Gif" width="300"/>
-</div>
-
-- **Ciencia de Datos:** Me interesa porque permite convertir datos en decisiones útiles, aportando valor en sectores clave como salud, finanzas y tecnología.
-<div align="center">
-    <img src="multimedia/datascience.gif" alt="Gif" width="300"/>
-</div>
-
-- **Inteligencia Artificial:** Es increíble la capacidad de simular inteligencia humana y transformar industrias con soluciones innovadoras.
-<div align="center">
-    <img src="multimedia/ia.gif" alt="Gif" width="300"/>
-</div>
 
 ## 💻 Proyectos
 * [Lista de tus proyectos]
@@ -45,19 +33,19 @@
 - **Lenguajes:** Tengo conocimiento en los siguientes lenguajes.
 <div align="center">
   <a href="https://www.python.org">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="max-width: 50px; height: auto;">
   </a>
   <a href="https://www.java.com/es/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Java_logo_and_wordmark.svg" alt="Java" width="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="max-width: 50px; height: auto;">
   </a>
   <a href="https://www.w3schools.com/c/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.svg" alt="C" width="50">
+    <img src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program-thumbnail.png" alt="C" style="max-width: 50px; height: auto;">
   </a>
   <a href="https://www.w3schools.com/r/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R-logo.svg" alt="R" width="50">
+    <img src="https://banner2.cleanpng.com/20181126/abl/kisspng-scalable-vector-graphics-cran-statgraphics-rnn-vitor-c-5bfbd66c032b81.781736061543231084013.jpg" alt="R" style="max-width: 50px; height: auto;">
   </a>
   <a href="https://www.w3schools.com/sql/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_text.png" alt="SQL" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_text.png" alt="SQL" style="max-width: 50px; height: auto;">
   </a>
 </div>
 

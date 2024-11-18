@@ -18,16 +18,20 @@
 - **Mi CV:** [CV - José Marin](https://josem0lina.github.io/curriculum/)
 
 ## ✨ Intereses
-| **Interés**                                                                                                                                                      | **Gif**                                                                                                  |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| **Desarrollo de Software**<br>Me interesa por su capacidad de crear soluciones prácticas que impactan la vida diaria y resuelven problemas reales.                   | ![Desarrollo de Software](multimedia/desarrollosoftware.gif)                                               |
-| **Ciberseguridad**<br>Considero que es crucial para proteger datos y sistemas en un mundo digital, además de ser un desafío constante que requiere ingenio.        | ![Ciberseguridad](multimedia/ciberseguridad.gif)                                                         |
-| **Ciencia de Datos**<br>Me interesa porque permite convertir datos en decisiones útiles, aportando valor en sectores clave como salud, finanzas y tecnología.       | ![Ciencia de Datos](multimedia/datascience.gif)                                                          |
-| **Inteligencia Artificial**<br>Es increíble la capacidad de simular inteligencia humana y transformar industrias con soluciones innovadoras.                       | ![Inteligencia Artificial](multimedia/ia.gif)                                                            |
-
+- **Desarrollo de Software:** Me interesa por su capacidad de crear soluciones prácticas que impactan la vida diaria y resuelven problemas reales.
+- **Ciberseguridad:** Considero que es crucial para proteger datos y sistemas en un mundo digital, además de ser un desafío constante que requiere ingenio.
+- **Ciencia de Datos:** Me interesa porque permite convertir datos en decisiones útiles, aportando valor en sectores clave como salud, finanzas y tecnología.
+- **Inteligencia Artificial:** Es increíble la capacidad de simular inteligencia humana y transformar industrias con soluciones innovadoras.
+<div align="center">
+    <img src="multimedia/desarrollosoftware" alt="Gif" width="300"/>
+    <img src="multimedia/desarrollosoftware.gif" alt="Gif" width="300"/>
+</div>
 
 ## 💻 Proyectos
-* [Lista de tus proyectos]
+**Proyectos** | **Previsualización**  | **Herramientas Utilizadas**
+--- | --- | ---
+**MotorsEC**<br>Una plataforma diseñada para gestionar la venta de vehículos, donde los clientes pueden explorar un catálogo, seleccionar vehículos como favoritos y completar compras. Al mismo tiempo, los vendedores tienen la capacidad de agregar, modificar y administrar la información de los vehículos de manera eficiente. | ![Captura de MotorsEC](/multimedia/proyecto1.png) | Java, JavaFX, NetBeans IDE.
+**Animal Guesser ¿?**<br>Un juego de adivinanza personalizable en el que el jugador piensa en una palabra, y la aplicación intenta descubrirla haciendo preguntas. Utiliza una estructura de árboles binarios para organizar las preguntas y respuestas, lo que permite reducir opciones de manera lógica hasta llegar a la palabra correcta. | ![Captura de Animal Guesser](/multimedia/proyecto2.png) | Java, JavaFX, NetBeans IDE
 
 ## 🛠️ Tecnologías
 - **Lenguajes:** Tengo conocimiento en los siguientes lenguajes.
@@ -45,7 +49,7 @@
     <img src="https://banner2.cleanpng.com/20181126/abl/kisspng-scalable-vector-graphics-cran-statgraphics-rnn-vitor-c-5bfbd66c032b81.781736061543231084013.jpg" alt="R" style="max-width: 50px; height: auto;">
   </a>
   <a href="https://www.w3schools.com/sql/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_text.png" alt="SQL" style="max-width: 50px; height: auto;">
+    <img src="https://cdn-icons-png.freepik.com/256/17266/17266017.png?semt=ais_hybrid" alt="SQL" style="max-width: 50px; height: auto;">
   </a>
 </div>
 

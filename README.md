@@ -13,29 +13,29 @@
 * [Contáctame](#-contáctame)
 
 ## 😄 Información personal
-- **Nombre:** [José Marin]
-- **Ocupación:** [Estudiante, Programador Junior]
-- **Mi CV:** [https://josem0lina.github.io/curriculum/](https://josem0lina.github.io/curriculum/)
+- **Nombre:** José Marin
+- **Ocupación:** Estudiante, Programador Junior
+- **Mi CV:** [CV - José Marin](https://josem0lina.github.io/curriculum/)
 
 ## ✨ Intereses
 - **Desarrollo de Software:** Me interesa por su capacidad de crear soluciones prácticas que impactan la vida diaria y resuelven problemas reales.
 <div align="center">
-    <img src="multimedia/desarrollosoftware" alt="Gif" width="300"/>
+    <img src="multimedia/desarrollosoftware.gif" alt="Gif" width="300"/>
 </div>
 
 - **Ciberseguridad:** Considero que es crucial para proteger datos y sistemas en un mundo digital, además de ser un desafío constante que requiere ingenio.
 <div align="center">
-    <img src="multimedia/ciberseguridad" alt="Gif" width="300"/>
+    <img src="multimedia/ciberseguridad.gif" alt="Gif" width="300"/>
 </div>
 
 - **Ciencia de Datos:** Me interesa porque permite convertir datos en decisiones útiles, aportando valor en sectores clave como salud, finanzas y tecnología.
 <div align="center">
-    <img src="multimedia/datascience" alt="Gif" width="300"/>
+    <img src="multimedia/datascience.gif" alt="Gif" width="300"/>
 </div>
 
 - **Inteligencia Artificial:** Es increíble la capacidad de simular inteligencia humana y transformar industrias con soluciones innovadoras.
 <div align="center">
-    <img src="multimedia/ia" alt="Gif" width="300"/>
+    <img src="multimedia/ia.gif" alt="Gif" width="300"/>
 </div>
 
 ## 💻 Proyectos
@@ -43,23 +43,47 @@
 
 ## 🛠️ Tecnologías
 - **Lenguajes:** Tengo conocimiento en los siguientes lenguajes.
-<div style="display: inline-block; text-align: center;">
-  [<img src="https://www.pikpng.com/pngl/m/62-626189_big-image-python-programming-language-clipart.png" alt="Icono" width="20" style="vertical-align: middle;"> Haz clic aquí](www.python.org)
-  [<img src="https://www.manualweb.net/img/logos/java.png" alt="Icono" width="20" style="vertical-align: middle;"> Haz clic aquí](https://www.java.com/es/)
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="Icono" width="20" style="vertical-align: middle;"> Haz clic aquí](https://www.w3schools.com/c/)
-  [<img src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" alt="Icono" width="20" style="vertical-align: middle;"> Haz clic aquí](https://www.w3schools.com/r/)
-  [<img src="https://www.netgen.co.za/wp-content/uploads/2023/05/SQL-Database.png" alt="Icono" width="20" style="vertical-align: middle;"> Haz clic aquí](https://www.w3schools.com/sql/)
-  [<img src="https://www.manualweb.net/img/logos/java.png" alt="Icono" width="20" style="vertical-align: middle;"> Haz clic aquí](https://www.java.com/es/)
+<div style="text-align: center;">
+  <a href="https://www.python.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30">
+  </a>
+  <a href="https://www.java.com/es/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Java_logo_and_wordmark.svg" alt="Java" width="30">
+  </a>
+  <a href="https://www.w3schools.com/c/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.svg" alt="C" width="30">
+  </a>
+  <a href="https://www.w3schools.com/r/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R-logo.svg" alt="R" width="30">
+  </a>
+  <a href="https://www.w3schools.com/sql/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_text.png" alt="SQL" width="30">
+  </a>
 </div>
 
 - **Herramientas:** Tengo dominio en las siguientes herramientas.
 <div style="display: inline-block; text-align: center;">
-  [<img src="https://hermes.dio.me/articles/cover/6bd19293-5be0-41f9-bdd7-5fc55ab992a4.png" alt="Icono" width="20" style="vertical-align: middle;"> Haz clic aquí](https://code.visualstudio.com/)
-  [<img src="https://www.esepestudio.com/archivos/image/_noticias/medias/mysql.gif" alt="Icono" width="20" style="vertical-align: middle;"> Haz clic aquí](https://www.mysql.com/)
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" alt="Icono" width="20" style="vertical-align: middle;"> Haz clic aquí](https://www.linux.org/)
-  [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Icono" width="20" style="vertical-align: middle;"> Haz clic aquí](https://git-scm.com/)
-  [<img src="https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" alt="Icono" width="20" style="vertical-align: middle;"> Haz clic aquí](https://www.figma.com/es-la/)
+  <a href="https://code.visualstudio.com/">
+    <img src="https://hermes.dio.me/articles/cover/6bd19293-5be0-41f9-bdd7-5fc55ab992a4.png" alt="Icono" width="20" style="vertical-align: middle;">
+  </a>
+  
+  <a href="https://www.mysql.com/">
+    <img src="https://www.esepestudio.com/archivos/image/_noticias/medias/mysql.gif" alt="Icono" width="20" style="vertical-align: middle;">
+  </a>
+  
+  <a href="https://www.linux.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" alt="Icono" width="20" style="vertical-align: middle;">
+  </a>
+  
+  <a href="https://git-scm.com/">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Icono" width="20" style="vertical-align: middle;">
+  </a>
+  
+  <a href="https://www.figma.com/es-la/">
+    <img src="https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" alt="Icono" width="20" style="vertical-align: middle;">
+  </a>
 </div>
+
 
 ## 📈 Estadísticas de GitHub
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseM0lina&layout=compact&theme=cobalt)

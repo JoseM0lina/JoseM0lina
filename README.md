@@ -46,19 +46,39 @@
 - **Lenguajes:** Tengo conocimiento en los siguientes lenguajes.
 <div align="center">
   <a href="https://www.python.org">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="max-width: 50px; max-height: 70px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Icono" style="max-width: 50px; max-height: 70px; width: 40px; height: 50px;">
   </a>
+
   <a href="https://www.java.com/es/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="max-width: 50px; max-height: 70px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Icono" style="max-width: 50px; max-height: 70px; width: 40px; height: 50px;">
   </a>
+
   <a href="https://www.w3schools.com/c/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="max-width: 50px; max-height: 70px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Icono" style="max-width: 50px; max-height: 70px; width: 40px; height: 50px;">
   </a>
+
   <a href="https://www.w3schools.com/r/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" style="max-width: 50px; max-height: 70px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="Icono" style="max-width: 50px; max-height: 70px; width: 40px; height: 50px;">
   </a>
+
   <a href="https://www.w3schools.com/sql/">
-    <img src="https://cdn-icons-png.freepik.com/256/17266/17266017.png?semt=ais_hybrid" alt="SQL" style="max-width: 50px; max-height: 70px;">
+    <img src="https://cdn-icons-png.freepik.com/256/17266/17266017.png?semt=ais_hybrid" alt="Icono" style="max-width: 50px; max-height: 70px; width: 40px; height: 50px;">
+  </a>
+
+  <a href="https://www.w3schools.com/js/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Icono" style="max-width: 50px; max-height: 70px; width: 40px; height: 50px;">
+  </a>
+
+  <a href="https://www.w3schools.com/html/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Icono" style="max-width: 50px; max-height: 70px; width: 40px; height: 50px;">
+  </a>
+
+  <a href="https://www.w3schools.com/html/">
+    <img src="https://w7.pngwing.com/pngs/66/60/png-transparent-web-development-cascading-style-sheets-css3-computer-icons-css-miscellaneous-blue-angle-thumbnail.png" alt="Icono" style="max-width: 50px; max-height: 70px; width: 40px; height: 50px;">
+  </a>
+
+  <a href="https://www.w3schools.com/html/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Icono" style="max-width: 50px; max-height: 70px; width: 40px; height: 50px;">
   </a>
 </div>
 
@@ -74,6 +94,10 @@
   
   <a href="https://www.linux.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" alt="Icono" width="50" style="vertical-align: middle;">
+  </a>
+
+  <a href="https://www.linux.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="Icono" width="50" style="vertical-align: middle;">
   </a>
   
   <a href="https://git-scm.com/">
@@ -91,5 +115,5 @@
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JoseM0lina&show_icons=true&theme=cobalt)
 
 ## 📌 Contáctame
-- 📧**Email:** [josmmoli@espol.edu.ec](josmmoli@espol.edu.ec)
+- 📧**Email:** [josmmoli@espol.edu.ec](mailto:josmmoli@espol.edu.ec)
 - 💼**Linkedin:** [José Marin](https://www.linkedin.com/in/jos%C3%A9-gabriel-marin-molina-75566a294/)

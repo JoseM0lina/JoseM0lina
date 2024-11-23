@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hola 👋, soy José Marin</h1>
-    <p>Estudiante de Ingenieria en Ciencias de la Computación 👨🏾‍💻.</p>
+    <h3>Estudiante de Ingenieria en Ciencias de la Computación 👨🏾‍💻.</h3>
     <img src="https://img.freepik.com/vector-premium/cute-programador-depuracion-codigo-vector-dibujos-animados_865091-13403.jpg?semt=ais_hybrid" width="300"/>
 </div>
 
@@ -23,33 +23,42 @@
 - **Ciencia de Datos:** Me interesa porque permite convertir datos en decisiones útiles, aportando valor en sectores clave como salud, finanzas y tecnología.
 - **Inteligencia Artificial:** Es increíble la capacidad de simular inteligencia humana y transformar industrias con soluciones innovadoras.
 <div align="center">
-    <img src="multimedia/desarrollosoftware" alt="Gif" width="300"/>
-    <img src="multimedia/desarrollosoftware.gif" alt="Gif" width="300"/>
+    <img src="multimedia/desarrollosoftware.gif" width="300"/>
 </div>
 
 ## 💻 Proyectos
-**Proyectos** | **Previsualización**  | **Herramientas Utilizadas**
---- | --- | ---
-**MotorsEC**<br>Una plataforma diseñada para gestionar la venta de vehículos, donde los clientes pueden explorar un catálogo, seleccionar vehículos como favoritos y completar compras. Al mismo tiempo, los vendedores tienen la capacidad de agregar, modificar y administrar la información de los vehículos de manera eficiente. | ![Captura de MotorsEC](/multimedia/proyecto1.png) | Java, JavaFX, NetBeans IDE.
-**Animal Guesser ¿?**<br>Un juego de adivinanza personalizable en el que el jugador piensa en una palabra, y la aplicación intenta descubrirla haciendo preguntas. Utiliza una estructura de árboles binarios para organizar las preguntas y respuestas, lo que permite reducir opciones de manera lógica hasta llegar a la palabra correcta. | ![Captura de Animal Guesser](/multimedia/proyecto2.png) | Java, JavaFX, NetBeans IDE
+- **MotorsEC**
+  - ***Descripción:*** Una plataforma diseñada para gestionar la venta de vehículos, donde los clientes pueden explorar un catálogo, seleccionar vehículos como favoritos y completar compras. Al mismo tiempo, los vendedores tienen la capacidad de agregar, modificar y administrar la información de los vehículos de manera eficiente.
+  - ***Tecnologías:*** Java, JavaFX, NetBeans IDE.
+  - [🔗 Repositorio](https://github.com/elP0l/ED_P1_Grupo07)
+
+- **ViveEcuador**
+  - ***Descripción:*** Una landing page diseñada para inspirar el turismo en Ecuador, destacando su cultura, gastronomía y destinos turísticos más impresionantes. También muestra las opiniones y calificaciones de los visitantes para resaltar los lugares favoritos de los viajeros.
+  - ***Tecnologías:*** HTML, Bootstrap, JavaScrypt, CSS, Firebase, Visual Studio Code.
+  - [🔗 Repositorio](https://josem0lina.github.io/landing/) 
+
+- **Animal Guesser ¿?**
+  - ***Descripción:*** Un juego de adivinanza personalizable en el que el jugador piensa en una palabra, y la aplicación intenta descubrirla haciendo preguntas. Utiliza una estructura de árboles binarios para organizar las preguntas y respuestas, lo que permite reducir opciones de manera lógica hasta llegar a la palabra correcta.
+  - ***Tecnologías:*** Java, JavaFX, NetBeans IDE.
+  - [🔗 Repositorio](https://github.com/elP0l/ED.P1.Grupo07)
 
 ## 🛠️ Tecnologías
 - **Lenguajes:** Tengo conocimiento en los siguientes lenguajes.
 <div align="center">
   <a href="https://www.python.org">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="max-width: 50px; height: auto;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="max-width: 50px; max-height: 70px;">
   </a>
   <a href="https://www.java.com/es/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="max-width: 50px; height: auto;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="max-width: 50px; max-height: 70px;">
   </a>
   <a href="https://www.w3schools.com/c/">
-    <img src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program-thumbnail.png" alt="C" style="max-width: 50px; height: auto;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="max-width: 50px; max-height: 70px;">
   </a>
   <a href="https://www.w3schools.com/r/">
-    <img src="https://banner2.cleanpng.com/20181126/abl/kisspng-scalable-vector-graphics-cran-statgraphics-rnn-vitor-c-5bfbd66c032b81.781736061543231084013.jpg" alt="R" style="max-width: 50px; height: auto;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" style="max-width: 50px; max-height: 70px;">
   </a>
   <a href="https://www.w3schools.com/sql/">
-    <img src="https://cdn-icons-png.freepik.com/256/17266/17266017.png?semt=ais_hybrid" alt="SQL" style="max-width: 50px; height: auto;">
+    <img src="https://cdn-icons-png.freepik.com/256/17266/17266017.png?semt=ais_hybrid" alt="SQL" style="max-width: 50px; max-height: 70px;">
   </a>
 </div>
 
